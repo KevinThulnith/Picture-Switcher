@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: linear-gradient(120deg, #cdd1d1, #d8d8eb);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  box-shadow: 9px 9px 18px #079492, -9px -9px 18px #e5efef;
+  padding: 20px 20px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+}
+
+.container #main-img {
+  height: 530px;
+  aspect-ratio: 5/7;
+  object-fit: cover;
+  border-radius: 8px;
+}
+img {
+    aspect-ratio:6/7;
+    height: 63px;
+    border-radius: 4px;
+}
