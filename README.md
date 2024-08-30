@@ -1,2 +1,2 @@
 # Picture-Switcher
-code javaScript, css, html
+code: javaScript, css, html
